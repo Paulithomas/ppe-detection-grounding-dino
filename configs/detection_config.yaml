@@ -1,0 +1,10 @@
+
+labels:
+  - person
+  - hard hat
+  - reflective vest
+
+box_threshold: 0.30
+text_threshold: 0.20
+process_every_n_frames: 3
+max_frames: 150

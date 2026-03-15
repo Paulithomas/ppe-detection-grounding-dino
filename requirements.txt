@@ -1,0 +1,11 @@
+torch
+torchvision
+opencv-python
+pillow
+matplotlib
+transformers
+accelerate
+timm
+safetensors
+sentencepiece
+pyyaml\n
